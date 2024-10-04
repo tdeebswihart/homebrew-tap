@@ -6,7 +6,7 @@ class DockerMacNetConnect < Formula
   homepage "https://github.com/tdeebswihart/docker-mac-net-connect"
   version "v0.1.4"
   url "https://github.com/tdeebswihart/docker-mac-net-connect/archive/refs/tags/#{version}.tar.gz"
-  sha256 "189faa20db1d82a4524fbc04cef73ced8bcce7587b53a48f48b2c45ce11b6cc1"
+  sha256 "e2db3a8c15896fc0219f149330ba1e1c6e21af145195d0500146680173e651e2"
   license "MIT"
 
   depends_on "go" => :build
